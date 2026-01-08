@@ -1,0 +1,11 @@
+# Python cache (sampah sistem)
+__pycache__/
+*.pyc
+
+# Folder env jika kamu pakai virtual environment
+venv/
+env/
+.env
+
+# MacOS folder junk
+.DS_Store

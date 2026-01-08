@@ -1,0 +1,1001 @@
+asal_sekolah,jurusan_asal,pkn,mtk,indo,ing,lainnya,hobi_olahraga,hobi_musik,hobi_editing,hobi_game,jurusan_kuliah
+SMA,IPA,84,72,77,66,83,0,1,1,0,Desain Interior
+SMK,TKJ,85,65,79,86,80,0,0,1,0,Seni Musik
+SMA,IPA,82,87,80,68,68,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,89,81,83,78,98,0,0,0,0,Farmasi
+SMA,IPA,77,95,77,92,72,0,0,1,1,Teknik Mesin
+SMA,IPA,89,86,83,87,95,0,0,0,0,Farmasi
+SMA,IPA,79,88,86,69,73,0,0,1,0,Seni Musik
+SMA,IPA,77,66,80,82,87,0,0,0,0,Keperawatan
+SMA,IPA,87,89,90,81,60,0,0,0,0,Sistem Informasi
+SMA,IPA,77,89,94,60,94,0,0,0,0,Gizi
+SMA,IPA,71,85,87,82,88,0,0,1,1,Teknik Mesin
+SMA,IPA,88,70,76,71,69,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,82,95,83,91,79,0,0,1,1,Teknik Informatika
+SMK,IPS,96,88,100,89,81,0,0,0,0,Akuntansi
+SMA,IPS,87,71,95,63,93,0,0,0,0,Hukum
+SMK,Akuntansi,78,86,88,76,82,0,0,1,0,Desain Interior
+SMA,IPA,83,76,74,69,70,1,0,0,0,Ilmu Keolahragaan
+SMK,Akuntansi,85,70,88,66,95,0,0,0,0,Gizi
+SMA,IPS,98,76,99,77,92,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,70,69,70,80,67,0,1,1,0,Seni Musik
+SMK,IPS,85,61,92,71,82,0,0,0,0,Hukum
+SMK,Mesin,88,73,87,74,70,0,1,1,0,Seni Musik
+SMA,IPA,83,65,87,90,76,0,1,1,0,Desain Interior
+SMK,Akuntansi,79,62,86,68,77,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,75,76,89,76,80,0,1,1,0,DKV
+SMK,IPS,90,71,85,88,82,0,0,0,0,Akuntansi
+SMA,IPA,78,94,84,92,84,0,0,1,1,Teknik Informatika
+SMK,Mesin,89,84,70,90,72,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,76,87,86,77,80,0,0,0,0,Teknik Mesin
+SMA,IPA,75,65,93,77,91,0,0,0,0,Farmasi
+SMA,IPA,74,73,85,78,88,0,0,1,0,DKV
+SMK,IPS,95,72,86,62,81,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,96,76,94,66,93,0,0,0,0,Manajemen
+SMA,IPA,85,60,70,87,61,0,0,1,0,DKV
+SMK,RPL,80,81,85,86,72,0,1,1,0,DKV
+SMK,TKJ,83,66,71,62,76,0,1,1,0,Seni Musik
+SMK,Mesin,76,80,88,63,69,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,71,96,81,77,77,0,0,0,1,Teknik Mesin
+SMA,IPA,75,86,92,66,94,0,0,0,0,Kedokteran
+SMK,Mesin,81,86,85,81,83,0,0,1,0,Teknik Informatika
+SMK,RPL,84,80,82,72,87,0,0,0,0,DKV
+SMA,IPS,85,73,98,66,88,0,0,0,0,Manajemen
+SMK,Mesin,72,82,76,71,72,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,90,70,93,84,89,0,0,0,0,Farmasi
+SMA,IPA,84,61,95,76,96,0,0,0,0,Gizi
+SMA,IPA,88,69,89,68,97,0,0,0,0,Kedokteran
+SMA,IPA,88,76,73,84,72,0,1,1,0,Desain Interior
+SMK,Mesin,84,60,95,82,97,0,0,0,0,Kedokteran
+SMA,IPA,87,85,76,80,72,0,0,1,1,Teknik Informatika
+SMA,IPA,84,72,81,88,66,0,0,1,0,DKV
+SMA,IPA,79,65,89,77,65,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,87,70,84,79,70,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,80,73,83,69,100,0,0,0,0,Kedokteran
+SMA,IPA,89,67,81,70,66,0,0,1,0,DKV
+SMA,IPS,89,79,94,85,95,0,0,0,0,Manajemen
+SMA,IPA,75,90,87,76,84,0,0,0,0,Teknik Informatika
+SMA,IPA,78,98,81,89,74,0,0,0,1,Sistem Informasi
+SMK,Akuntansi,83,79,89,65,85,0,0,0,0,Keperawatan
+SMK,Akuntansi,80,67,81,70,70,0,0,1,0,DKV
+SMK,Akuntansi,76,95,79,87,66,0,0,1,1,Sistem Informasi
+SMK,Mesin,75,68,84,90,90,1,0,0,0,Pendidikan Jasmani
+SMA,IPS,97,60,98,85,93,0,0,0,0,Hukum
+SMA,IPA,84,80,82,76,79,0,1,0,0,Seni Musik
+SMA,IPA,88,89,78,87,75,0,0,1,1,Teknik Mesin
+SMK,TKJ,73,97,89,81,65,0,0,1,0,Teknik Mesin
+SMA,IPA,73,89,88,69,96,0,0,0,0,Gizi
+SMK,Akuntansi,74,75,88,63,88,0,1,1,0,Seni Musik
+SMK,IPS,87,68,96,71,80,0,0,0,0,Manajemen
+SMA,IPA,74,85,70,93,76,0,0,0,0,Sistem Informasi
+SMA,IPA,82,78,83,80,66,0,1,0,0,Seni Musik
+SMK,RPL,72,79,82,65,87,0,1,1,0,Desain Interior
+SMA,IPA,73,67,88,77,87,0,1,0,0,Seni Musik
+SMK,IPS,100,68,95,72,80,0,0,0,0,Manajemen
+SMA,IPA,83,65,75,88,60,0,1,0,0,Desain Interior
+SMA,IPA,83,66,76,90,60,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,98,77,92,70,90,0,0,0,0,Hukum
+SMA,IPA,82,88,89,91,79,0,0,1,1,Teknik Mesin
+SMK,RPL,70,77,83,65,73,0,1,1,0,Desain Interior
+SMA,IPA,85,90,74,86,68,0,0,1,0,Seni Musik
+SMA,IPA,80,64,88,79,64,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,89,94,78,92,69,0,0,0,1,Sistem Informasi
+SMA,IPA,89,77,87,79,100,0,0,0,0,Gizi
+SMK,Akuntansi,76,84,84,90,92,0,0,0,0,Kedokteran
+SMA,IPS,96,87,88,89,80,0,0,0,0,Akuntansi
+SMK,Akuntansi,71,65,91,68,91,0,0,0,0,Kedokteran
+SMK,Mesin,89,89,80,64,62,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,73,74,72,79,79,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,91,90,89,88,94,0,0,0,0,Hukum
+SMK,Akuntansi,85,60,82,84,98,0,0,0,0,Keperawatan
+SMA,IPA,89,65,87,62,65,1,0,0,0,Ilmu Keolahragaan
+SMK,Akuntansi,84,84,84,73,60,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,83,100,73,89,72,0,0,1,0,Teknik Informatika
+SMK,TKJ,70,83,75,84,81,0,1,1,0,DKV
+SMA,IPA,89,76,88,82,77,0,1,1,0,DKV
+SMA,IPA,87,65,89,71,85,0,0,0,0,Gizi
+SMA,IPA,86,91,84,85,62,0,0,0,1,Sistem Informasi
+SMA,IPA,81,95,77,95,83,0,0,0,0,Teknik Informatika
+SMA,IPA,81,89,70,81,89,0,0,0,1,Teknik Mesin
+SMA,IPA,90,85,81,90,63,0,0,0,0,Teknik Informatika
+SMA,IPA,76,68,90,78,60,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,79,81,93,75,87,0,0,0,0,Gizi
+SMA,IPA,70,69,85,80,79,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,88,97,79,75,66,0,0,0,0,Teknik Mesin
+SMA,IPA,81,97,87,83,63,0,0,0,0,Teknik Informatika
+SMK,Akuntansi,89,77,88,89,85,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,86,74,87,82,93,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,72,93,83,84,71,0,0,1,1,Teknik Mesin
+SMA,IPA,84,66,79,89,61,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,84,86,89,88,95,0,0,0,0,Farmasi
+SMK,RPL,77,83,79,71,71,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,75,97,79,95,68,0,0,1,1,Teknik Informatika
+SMA,IPA,82,65,94,78,91,0,0,0,0,Keperawatan
+SMK,IPS,85,75,86,74,86,0,0,0,0,Hukum
+SMK,Akuntansi,83,71,77,76,62,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,95,83,99,66,93,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,88,86,97,62,81,0,0,0,0,Hukum
+SMK,Mesin,86,62,88,74,97,0,0,0,0,Gizi
+SMK,RPL,73,67,81,85,88,0,0,1,0,Seni Musik
+SMK,Mesin,76,77,72,75,86,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,83,77,89,60,74,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,90,67,100,72,85,0,0,0,0,Akuntansi
+SMA,IPA,89,97,73,77,76,0,0,0,1,Sistem Informasi
+SMA,IPA,79,60,81,77,78,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,79,85,81,69,70,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,88,77,88,63,82,0,1,0,0,Seni Musik
+SMA,IPA,81,87,88,95,89,0,0,0,0,Sistem Informasi
+SMK,RPL,81,69,77,80,62,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,95,63,98,81,84,0,0,0,0,Manajemen
+SMA,IPA,90,94,74,90,89,0,0,1,0,Teknik Mesin
+SMK,Akuntansi,89,75,85,74,75,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,90,90,89,73,94,0,0,0,0,Ilmu Komunikasi
+SMK,Akuntansi,76,84,84,73,100,0,0,0,0,Gizi
+SMK,IPS,97,84,91,68,85,0,0,0,0,Hukum
+SMK,IPS,99,63,94,66,82,0,0,0,0,Akuntansi
+SMK,IPS,93,87,90,78,90,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,85,63,95,62,88,0,0,0,0,Ilmu Komunikasi
+SMK,RPL,86,62,92,68,89,0,0,0,0,Gizi
+SMA,IPA,86,75,72,86,62,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,89,85,84,79,75,0,0,1,0,Sistem Informasi
+SMA,IPA,77,71,79,81,72,0,1,0,0,Seni Musik
+SMA,IPA,73,72,84,66,93,0,0,0,0,Farmasi
+SMA,IPA,86,90,87,66,91,0,0,0,0,Gizi
+SMA,IPA,75,92,83,93,65,0,0,0,0,Teknik Mesin
+SMK,RPL,76,90,87,69,67,0,1,1,0,Desain Interior
+SMK,Mesin,86,90,90,77,78,0,0,1,1,Sistem Informasi
+SMK,Mesin,76,71,95,75,85,0,0,0,0,Kedokteran
+SMK,TKJ,79,89,80,84,90,0,1,0,0,DKV
+SMA,IPA,81,77,84,67,98,0,0,0,0,Farmasi
+SMA,IPA,79,81,85,83,73,0,1,1,0,Desain Interior
+SMA,IPS,89,82,89,72,89,0,0,0,0,Manajemen
+SMA,IPA,85,80,76,62,84,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,78,100,89,89,85,0,0,0,1,Teknik Informatika
+SMK,Mesin,81,86,83,89,88,0,0,0,0,Keperawatan
+SMA,IPA,82,90,95,80,89,0,0,0,0,Keperawatan
+SMK,TKJ,80,83,81,75,87,0,1,1,0,DKV
+SMK,IPS,85,73,100,75,80,0,0,0,0,Manajemen
+SMK,TKJ,77,94,88,75,61,0,0,0,0,Teknik Informatika
+SMA,IPS,85,61,86,90,82,0,0,0,0,Manajemen
+SMA,IPA,79,76,79,83,61,0,1,0,0,DKV
+SMA,IPA,70,75,74,86,87,0,1,1,0,Desain Interior
+SMA,IPA,90,89,74,94,90,0,0,0,1,Teknik Mesin
+SMK,Akuntansi,90,78,83,79,85,0,0,0,0,Keperawatan
+SMA,IPA,70,80,73,62,81,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,83,77,91,72,95,0,0,0,0,Farmasi
+SMA,IPA,74,70,79,90,69,0,0,1,0,Desain Interior
+SMA,IPA,71,89,81,89,70,0,0,0,0,Sistem Informasi
+SMA,IPA,71,88,81,67,85,0,0,0,0,Gizi
+SMA,IPA,87,79,73,63,71,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,83,84,95,90,89,0,0,0,0,Farmasi
+SMA,IPA,87,98,81,90,76,0,0,1,1,Teknik Mesin
+SMA,IPA,76,93,82,93,90,0,0,1,1,Teknik Mesin
+SMK,IPS,85,63,99,67,85,0,0,0,0,Manajemen
+SMA,IPA,88,78,74,73,87,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,89,74,89,60,90,0,0,0,0,Farmasi
+SMK,Akuntansi,80,67,80,62,89,0,0,0,0,Keperawatan
+SMK,IPS,91,60,94,78,81,0,0,0,0,Hukum
+SMA,IPA,90,89,80,70,68,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,89,60,86,71,96,0,0,0,0,Kedokteran
+SMK,RPL,85,74,77,89,84,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,81,95,70,75,68,0,0,1,1,Teknik Mesin
+SMK,Akuntansi,76,80,83,61,78,0,1,0,0,Desain Interior
+SMK,Mesin,71,87,83,84,69,0,0,1,1,Teknik Informatika
+SMK,Mesin,80,64,72,65,66,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,71,61,86,88,71,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,90,80,82,68,71,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,72,73,88,63,71,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,79,74,78,73,64,0,0,0,0,Seni Musik
+SMA,IPA,77,78,81,64,85,0,0,0,0,Kedokteran
+SMK,Akuntansi,75,84,74,88,66,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,88,100,79,75,65,0,0,0,1,Teknik Informatika
+SMK,Mesin,70,88,78,71,85,0,0,0,0,DKV
+SMK,TKJ,72,88,82,81,67,0,0,0,0,Sistem Informasi
+SMK,IPS,94,62,85,61,84,0,0,0,0,Hukum
+SMA,IPA,84,75,91,76,100,0,0,0,0,Keperawatan
+SMK,IPS,90,77,90,86,89,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,92,76,94,68,85,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,75,79,80,71,97,0,0,0,0,Kedokteran
+SMA,IPA,90,93,78,91,71,0,0,0,1,Teknik Informatika
+SMK,RPL,78,71,79,61,74,0,1,1,0,Desain Interior
+SMK,TKJ,87,64,87,80,99,0,0,0,0,Farmasi
+SMA,IPA,88,74,84,77,93,0,0,0,0,Farmasi
+SMK,Akuntansi,85,86,89,65,65,0,1,1,0,DKV
+SMK,Akuntansi,88,76,73,86,62,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,87,71,94,79,87,0,0,0,0,Farmasi
+SMA,IPA,87,79,85,87,85,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,97,84,92,62,80,0,0,0,0,Hukum
+SMK,RPL,71,68,89,73,65,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,91,64,86,85,89,0,0,0,0,Ilmu Komunikasi
+SMK,Mesin,75,71,72,87,70,0,1,1,0,Seni Musik
+SMA,IPS,88,87,88,62,93,0,0,0,0,Ilmu Komunikasi
+SMK,TKJ,71,78,84,70,93,0,0,0,0,Kedokteran
+SMA,IPS,93,64,89,72,87,0,0,0,0,Manajemen
+SMA,IPA,88,75,82,82,87,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,72,70,82,64,75,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,99,88,97,87,80,0,0,0,0,Akuntansi
+SMA,IPA,77,95,83,86,66,0,0,1,0,Sistem Informasi
+SMA,IPA,76,63,82,74,76,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,90,90,77,89,90,0,0,1,0,Sistem Informasi
+SMK,IPS,85,61,98,67,93,0,0,0,0,Akuntansi
+SMK,IPS,88,69,87,85,84,0,0,0,0,Akuntansi
+SMA,IPA,76,88,87,82,71,0,0,1,1,Teknik Informatika
+SMA,IPA,77,65,71,62,79,0,0,1,0,Seni Musik
+SMA,IPA,80,93,71,91,84,0,0,1,0,Teknik Informatika
+SMK,Akuntansi,72,90,81,76,99,0,0,0,0,Kedokteran
+SMK,Mesin,73,97,86,88,85,0,0,0,1,Sistem Informasi
+SMK,Akuntansi,85,90,87,77,85,0,0,0,0,Gizi
+SMK,Mesin,85,67,88,77,87,0,0,0,0,Keperawatan
+SMA,IPA,85,91,79,83,66,0,0,0,1,Teknik Informatika
+SMK,Mesin,74,95,87,81,74,0,0,1,0,Teknik Informatika
+SMK,IPS,100,83,95,86,93,0,0,0,0,Hukum
+SMK,Mesin,71,74,87,77,99,0,0,0,0,Keperawatan
+SMA,IPA,78,87,71,86,67,0,1,0,0,Desain Interior
+SMA,IPA,79,78,74,63,90,0,1,1,0,Seni Musik
+SMA,IPS,99,63,88,87,90,0,0,0,0,Ilmu Komunikasi
+SMK,Mesin,74,88,79,69,71,0,1,1,0,Desain Interior
+SMK,Mesin,81,66,70,67,81,0,1,0,0,Desain Interior
+SMA,IPA,80,96,85,95,83,0,0,0,1,Teknik Informatika
+SMA,IPA,81,86,83,78,85,0,0,1,0,Seni Musik
+SMA,IPS,91,86,99,60,89,0,0,0,0,Akuntansi
+SMK,Akuntansi,87,85,83,82,82,0,0,1,1,Teknik Informatika
+SMA,IPS,85,90,88,88,81,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,88,89,92,84,95,0,0,0,0,Manajemen
+SMK,Mesin,79,88,87,65,100,0,0,0,0,Gizi
+SMK,RPL,85,72,75,62,61,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,83,82,90,83,64,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,90,74,70,62,62,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,78,72,84,79,90,0,0,0,0,Keperawatan
+SMK,TKJ,84,97,82,82,66,0,0,0,0,Teknik Informatika
+SMA,IPS,86,73,88,67,94,0,0,0,0,Ilmu Komunikasi
+SMA,IPS,89,67,97,66,87,0,0,0,0,Hukum
+SMA,IPA,81,76,87,73,71,0,1,0,0,Seni Musik
+SMA,IPA,80,89,83,90,69,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,88,71,79,83,60,0,1,0,0,DKV
+SMK,IPS,94,65,91,67,84,0,0,0,0,Akuntansi
+SMA,IPA,81,68,81,84,62,0,0,0,0,Seni Musik
+SMA,IPA,84,79,81,68,94,0,0,0,0,Keperawatan
+SMK,Akuntansi,83,77,75,82,90,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,83,96,79,93,81,0,0,1,0,Teknik Informatika
+SMA,IPA,75,68,76,84,74,0,1,1,0,Seni Musik
+SMA,IPA,78,95,75,75,71,0,0,1,0,Sistem Informasi
+SMA,IPA,73,100,84,89,74,0,0,1,0,Teknik Mesin
+SMA,IPA,78,85,75,63,67,0,1,1,0,DKV
+SMA,IPA,89,90,82,93,67,0,0,1,1,Sistem Informasi
+SMA,IPS,95,83,99,78,94,0,0,0,0,Manajemen
+SMA,IPS,98,71,86,87,94,0,0,0,0,Ilmu Komunikasi
+SMK,RPL,87,61,86,71,89,0,1,1,0,Desain Interior
+SMA,IPS,89,89,97,63,87,0,0,0,0,Akuntansi
+SMA,IPA,88,74,76,70,86,0,0,1,0,Desain Interior
+SMK,RPL,80,65,83,79,71,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,73,82,84,84,68,0,1,1,0,Desain Interior
+SMK,RPL,90,72,83,68,90,0,0,0,0,Keperawatan
+SMK,Akuntansi,84,62,75,70,62,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,70,68,89,71,95,0,0,0,0,Keperawatan
+SMA,IPA,78,77,73,66,69,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,73,97,86,78,72,0,0,1,1,Teknik Informatika
+SMA,IPS,85,78,89,72,84,0,0,0,0,Akuntansi
+SMK,Mesin,82,97,84,87,69,0,0,1,0,Teknik Mesin
+SMA,IPA,88,87,85,62,89,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,90,84,70,65,82,0,0,1,0,Seni Musik
+SMK,Akuntansi,88,74,81,71,100,0,0,0,0,Kedokteran
+SMK,RPL,73,97,77,82,75,0,0,1,0,Teknik Mesin
+SMA,IPA,84,78,76,69,75,0,1,1,0,DKV
+SMK,IPS,86,61,99,60,88,0,0,0,0,Ilmu Komunikasi
+SMK,TKJ,85,61,79,82,82,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,85,75,90,69,85,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,87,82,83,89,80,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,73,66,82,73,84,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,82,67,88,74,71,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,89,73,96,60,84,0,0,0,0,Ilmu Komunikasi
+SMA,IPS,94,63,95,76,84,0,0,0,0,Ilmu Komunikasi
+SMK,TKJ,84,72,87,84,72,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,97,85,85,72,86,0,0,0,0,Hukum
+SMA,IPA,80,80,82,62,85,0,0,0,0,Keperawatan
+SMA,IPA,79,80,89,81,92,0,0,0,0,Farmasi
+SMK,TKJ,90,66,75,60,89,0,1,1,0,DKV
+SMA,IPA,83,100,78,90,78,0,0,0,0,Sistem Informasi
+SMA,IPA,86,83,78,63,65,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,70,77,86,60,96,0,0,0,0,Kedokteran
+SMK,IPS,86,60,95,82,88,0,0,0,0,Hukum
+SMA,IPA,73,74,91,87,93,0,0,0,0,Gizi
+SMA,IPA,88,94,75,88,77,0,0,1,0,Sistem Informasi
+SMA,IPA,72,76,76,90,72,0,0,1,0,Seni Musik
+SMK,IPS,85,90,89,67,89,0,0,0,0,Hukum
+SMA,IPA,72,73,71,68,83,0,1,1,0,DKV
+SMK,Akuntansi,86,68,81,63,99,0,0,0,0,Kedokteran
+SMA,IPA,76,68,80,71,85,0,1,1,0,Seni Musik
+SMK,IPS,100,67,88,71,84,0,0,0,0,Ilmu Komunikasi
+SMK,TKJ,76,100,72,88,66,0,0,1,1,Sistem Informasi
+SMA,IPA,78,89,75,94,68,0,0,1,1,Sistem Informasi
+SMK,Mesin,71,77,90,76,71,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,84,98,74,87,69,0,0,1,1,Teknik Mesin
+SMK,IPS,100,67,99,90,81,0,0,0,0,Hukum
+SMK,TKJ,76,82,94,80,90,0,0,0,0,Farmasi
+SMA,IPA,82,84,81,64,67,0,1,1,0,DKV
+SMA,IPA,71,76,72,75,86,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,88,89,72,78,65,0,0,1,0,Sistem Informasi
+SMA,IPA,85,82,72,85,60,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,75,85,72,68,83,0,1,1,0,DKV
+SMA,IPA,85,77,80,86,90,0,0,0,0,Gizi
+SMA,IPA,87,79,75,72,89,0,1,1,0,Seni Musik
+SMK,Mesin,81,94,89,88,66,0,0,0,1,Teknik Mesin
+SMK,Mesin,86,99,83,92,86,0,0,0,1,Sistem Informasi
+SMK,IPS,86,90,99,79,88,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,86,63,73,64,88,0,0,1,0,DKV
+SMA,IPA,85,90,73,93,64,0,0,1,1,Sistem Informasi
+SMA,IPA,83,64,74,68,87,0,1,1,0,DKV
+SMA,IPA,70,88,85,88,92,0,0,0,0,Keperawatan
+SMA,IPA,87,100,84,90,62,0,0,0,0,Teknik Informatika
+SMK,Mesin,71,98,71,75,76,0,0,0,0,Sistem Informasi
+SMA,IPA,86,70,73,77,82,0,1,1,0,Seni Musik
+SMK,RPL,89,83,80,80,87,0,0,0,0,Kedokteran
+SMK,RPL,78,96,86,90,84,0,0,1,1,Teknik Mesin
+SMA,IPA,77,77,85,79,69,0,0,1,0,DKV
+SMA,IPA,79,87,73,87,72,0,0,1,1,Teknik Informatika
+SMA,IPA,82,95,79,75,83,0,0,0,1,Sistem Informasi
+SMA,IPA,80,61,70,90,64,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,84,90,88,75,93,0,0,0,0,Kedokteran
+SMA,IPA,87,90,81,79,68,0,0,0,0,Teknik Mesin
+SMA,IPA,79,74,71,65,77,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,78,80,82,63,98,0,0,0,0,Keperawatan
+SMA,IPA,84,90,77,83,63,0,0,1,0,Sistem Informasi
+SMA,IPS,92,87,89,89,87,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,90,89,77,84,76,0,0,1,1,Sistem Informasi
+SMA,IPA,74,71,91,68,85,0,0,0,0,Kedokteran
+SMK,RPL,78,70,85,68,99,0,0,0,0,Gizi
+SMA,IPA,77,88,78,85,72,0,0,1,0,Teknik Mesin
+SMA,IPA,70,91,90,88,86,0,0,0,1,Teknik Informatika
+SMK,Mesin,70,89,82,77,99,0,0,0,0,Keperawatan
+SMK,IPS,91,89,99,62,95,0,0,0,0,Manajemen
+SMK,RPL,78,86,82,84,65,0,0,0,1,Sistem Informasi
+SMK,Mesin,70,82,74,73,81,0,1,1,0,DKV
+SMA,IPA,81,89,80,70,83,0,0,1,0,Desain Interior
+SMA,IPA,70,87,90,94,65,0,0,0,1,Teknik Informatika
+SMA,IPA,71,76,88,67,90,0,0,0,0,Kedokteran
+SMK,Mesin,90,83,89,78,87,0,0,0,0,Gizi
+SMK,TKJ,70,65,81,65,97,0,0,0,0,Gizi
+SMK,Mesin,90,78,73,71,65,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,81,90,82,71,79,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,72,98,84,84,90,0,0,0,0,Teknik Informatika
+SMK,TKJ,88,96,84,90,68,0,0,1,0,Teknik Mesin
+SMK,TKJ,83,63,72,90,68,0,0,1,0,Seni Musik
+SMA,IPA,85,81,75,83,80,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,81,81,80,84,77,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,77,68,75,75,71,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,87,81,73,89,83,0,0,1,0,Desain Interior
+SMA,IPA,90,88,94,79,88,0,0,0,0,Farmasi
+SMA,IPS,85,69,95,67,88,0,0,0,0,Hukum
+SMK,TKJ,70,86,82,93,89,0,0,1,0,Sistem Informasi
+SMA,IPS,96,88,87,71,88,0,0,0,0,Manajemen
+SMK,TKJ,77,71,73,84,85,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,76,89,78,91,75,0,0,1,1,Teknik Mesin
+SMK,RPL,88,92,79,83,76,0,0,0,0,Teknik Informatika
+SMK,Mesin,75,72,79,83,76,0,0,0,0,DKV
+SMA,IPA,83,89,76,60,88,0,1,1,0,Seni Musik
+SMK,Akuntansi,87,85,89,92,66,0,0,0,1,Sistem Informasi
+SMA,IPS,90,79,98,84,88,0,0,0,0,Ilmu Komunikasi
+SMK,RPL,85,61,78,83,86,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,84,74,78,88,66,0,1,1,0,DKV
+SMA,IPA,79,89,83,90,85,0,0,1,1,Teknik Informatika
+SMA,IPA,87,75,81,88,78,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,99,90,93,70,92,0,0,0,0,Akuntansi
+SMK,Mesin,80,64,74,78,88,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,76,90,83,72,98,0,0,0,0,Gizi
+SMK,RPL,76,80,85,60,69,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,70,92,75,93,75,0,0,1,0,Teknik Informatika
+SMK,TKJ,86,78,80,68,89,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,70,93,80,91,76,0,0,1,1,Sistem Informasi
+SMK,RPL,84,81,86,63,85,0,0,0,0,Kedokteran
+SMA,IPA,75,87,78,86,81,0,0,0,1,Teknik Informatika
+SMA,IPA,77,64,73,87,81,0,1,0,0,DKV
+SMA,IPA,85,96,84,92,70,0,0,0,0,Teknik Mesin
+SMA,IPA,85,68,88,80,86,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,83,71,77,61,66,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,96,88,85,84,83,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,71,83,93,69,85,0,0,0,0,Keperawatan
+SMK,Akuntansi,89,88,78,75,74,0,0,0,1,Sistem Informasi
+SMK,IPS,87,77,91,72,88,0,0,0,0,Manajemen
+SMA,IPA,76,77,92,68,96,0,0,0,0,Keperawatan
+SMA,IPA,76,86,70,69,62,0,1,0,0,Desain Interior
+SMA,IPA,87,95,83,93,69,0,0,0,0,Sistem Informasi
+SMK,IPS,96,74,100,61,94,0,0,0,0,Hukum
+SMK,Mesin,90,86,88,71,95,0,0,0,0,Gizi
+SMA,IPA,83,73,76,88,70,0,0,1,0,Seni Musik
+SMK,TKJ,80,80,83,69,80,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,72,85,81,64,96,0,0,0,0,Farmasi
+SMK,RPL,88,60,94,62,91,0,0,0,0,Gizi
+SMK,Mesin,80,88,84,95,89,0,0,1,0,Teknik Mesin
+SMK,Akuntansi,79,88,76,64,90,0,1,1,0,Seni Musik
+SMA,IPA,71,73,84,79,90,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,90,61,89,60,88,0,0,0,0,Gizi
+SMK,Akuntansi,73,75,90,86,68,0,1,1,0,Seni Musik
+SMA,IPA,72,100,73,82,67,0,0,1,0,Sistem Informasi
+SMA,IPA,89,60,85,61,74,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,75,66,80,90,92,0,0,0,0,Farmasi
+SMA,IPA,76,70,94,62,88,0,0,0,0,Farmasi
+SMA,IPA,90,85,81,83,76,0,0,0,0,Teknik Mesin
+SMK,Akuntansi,89,73,87,88,86,0,1,0,0,Seni Musik
+SMK,TKJ,76,69,81,78,60,0,1,1,0,Desain Interior
+SMA,IPS,96,81,100,68,80,0,0,0,0,Akuntansi
+SMK,RPL,87,78,74,76,75,0,1,1,0,Seni Musik
+SMA,IPA,86,62,70,64,67,0,1,1,0,Desain Interior
+SMK,RPL,74,92,90,78,74,0,0,1,1,Sistem Informasi
+SMK,TKJ,78,85,88,72,94,0,0,0,0,Keperawatan
+SMA,IPS,97,77,90,77,82,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,77,73,80,76,92,0,0,0,0,Gizi
+SMK,Akuntansi,86,66,83,77,69,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,70,87,73,81,73,0,0,0,0,Sistem Informasi
+SMA,IPA,72,71,82,60,80,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,85,71,87,75,95,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,72,68,84,60,91,0,0,0,0,Kedokteran
+SMK,IPS,95,75,91,86,88,0,0,0,0,Hukum
+SMK,Mesin,83,67,81,85,85,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,81,95,83,90,88,0,0,0,0,Teknik Informatika
+SMA,IPS,94,85,89,76,82,0,0,0,0,Akuntansi
+SMK,TKJ,76,63,87,75,87,0,0,0,0,Kedokteran
+SMK,TKJ,70,88,86,84,64,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,85,63,74,61,77,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,79,71,76,89,72,0,1,1,0,Seni Musik
+SMA,IPA,86,80,75,85,86,0,0,1,0,DKV
+SMK,Akuntansi,74,86,70,86,83,0,0,1,0,Sistem Informasi
+SMK,Mesin,88,63,80,82,76,0,1,1,0,DKV
+SMK,RPL,82,78,70,66,77,0,1,0,0,Desain Interior
+SMA,IPA,83,66,81,62,90,0,0,0,0,Kedokteran
+SMK,Mesin,83,99,76,91,88,0,0,0,0,Teknik Mesin
+SMK,RPL,79,69,88,83,100,0,0,0,0,Keperawatan
+SMA,IPA,85,92,77,93,90,0,0,1,0,Teknik Mesin
+SMK,RPL,71,63,81,64,96,0,0,0,0,Farmasi
+SMA,IPA,85,88,77,84,75,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,87,83,89,68,97,0,0,0,0,Keperawatan
+SMK,RPL,88,88,89,82,98,0,0,0,0,Gizi
+SMK,TKJ,79,86,82,85,95,0,0,0,0,Farmasi
+SMK,RPL,88,81,71,68,62,0,1,0,0,Desain Interior
+SMK,Akuntansi,76,87,81,74,90,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,82,87,70,78,62,0,0,1,1,Sistem Informasi
+SMK,Akuntansi,89,66,78,73,81,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,87,88,75,85,88,0,1,1,0,Seni Musik
+SMK,RPL,81,80,88,82,67,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,77,60,83,88,85,0,0,0,0,Gizi
+SMK,IPS,91,83,86,81,82,0,0,0,0,Akuntansi
+SMK,RPL,85,63,75,80,62,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,77,68,91,75,90,0,0,0,0,Keperawatan
+SMK,IPS,89,83,100,87,93,0,0,0,0,Akuntansi
+SMA,IPA,86,87,80,90,70,0,0,1,0,Sistem Informasi
+SMA,IPA,71,68,77,80,72,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,73,90,78,64,65,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,88,67,71,76,89,0,0,1,0,DKV
+SMA,IPA,78,60,72,88,83,0,1,1,0,Desain Interior
+SMK,TKJ,83,97,72,85,76,0,0,0,1,Sistem Informasi
+SMA,IPS,92,62,97,73,89,0,0,0,0,Ilmu Komunikasi
+SMA,IPS,97,89,88,86,91,0,0,0,0,Hukum
+SMA,IPA,75,65,74,62,90,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,85,80,91,68,93,0,0,0,0,Hukum
+SMA,IPA,87,68,83,60,79,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,85,99,72,92,90,0,0,1,0,Sistem Informasi
+SMA,IPA,72,80,88,66,88,0,0,0,0,Gizi
+SMA,IPA,84,61,76,89,74,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,90,76,92,82,82,0,0,0,0,Manajemen
+SMA,IPA,73,87,95,85,93,0,0,0,0,Gizi
+SMA,IPA,73,79,87,69,68,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,77,81,76,66,84,0,0,1,0,Seni Musik
+SMK,Akuntansi,80,64,83,79,98,0,0,0,0,Farmasi
+SMA,IPA,88,93,85,77,85,0,0,0,1,Teknik Informatika
+SMA,IPA,80,88,83,79,78,0,0,1,0,Teknik Mesin
+SMA,IPA,84,90,79,82,70,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,86,99,90,77,60,0,0,0,1,Teknik Mesin
+SMK,Akuntansi,74,61,85,60,97,0,0,0,0,Farmasi
+SMK,Akuntansi,75,89,90,87,73,0,0,1,1,Sistem Informasi
+SMA,IPA,78,77,85,76,84,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,73,87,88,87,74,0,0,1,0,Teknik Mesin
+SMA,IPA,75,77,87,90,61,0,1,1,0,Seni Musik
+SMA,IPA,89,77,90,74,62,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,86,62,95,69,89,0,0,0,0,Kedokteran
+SMA,IPA,77,71,81,88,75,0,1,1,0,Desain Interior
+SMK,TKJ,71,61,85,81,66,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,88,68,91,79,93,0,0,0,0,Akuntansi
+SMK,TKJ,78,86,84,77,74,0,0,1,1,Sistem Informasi
+SMK,IPS,98,89,99,70,94,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,87,84,80,89,85,0,0,0,0,Farmasi
+SMA,IPA,76,89,92,81,90,0,0,0,0,Keperawatan
+SMA,IPS,93,68,86,72,88,0,0,0,0,Manajemen
+SMA,IPA,89,62,79,88,79,0,0,1,0,DKV
+SMA,IPA,72,94,84,88,84,0,0,1,1,Teknik Informatika
+SMA,IPA,71,61,85,85,77,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,81,62,70,83,76,0,0,0,0,Seni Musik
+SMA,IPA,81,78,88,85,88,0,0,0,0,Kedokteran
+SMK,Akuntansi,81,75,85,66,80,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,73,82,83,65,82,0,1,1,0,Seni Musik
+SMK,TKJ,79,77,87,87,64,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,99,85,92,69,84,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,83,85,74,77,69,0,0,1,1,Sistem Informasi
+SMK,RPL,83,82,87,74,68,0,0,1,0,DKV
+SMA,IPS,89,63,98,87,82,0,0,0,0,Hukum
+SMA,IPA,90,67,85,60,60,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,93,68,97,84,82,0,0,0,0,Hukum
+SMA,IPS,93,69,88,78,94,0,0,0,0,Manajemen
+SMA,IPS,89,61,99,84,83,0,0,0,0,Hukum
+SMK,Mesin,71,76,78,84,77,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,85,95,71,82,87,0,0,0,0,Teknik Mesin
+SMA,IPS,99,60,89,63,82,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,90,85,81,81,62,0,0,1,1,Teknik Mesin
+SMK,Akuntansi,73,95,86,77,89,0,0,0,0,Teknik Mesin
+SMA,IPA,73,92,81,79,79,0,0,1,1,Sistem Informasi
+SMK,TKJ,74,78,83,62,96,0,0,0,0,Farmasi
+SMA,IPA,81,70,80,86,79,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,90,99,74,75,80,0,0,0,0,Teknik Informatika
+SMK,Mesin,85,72,71,89,74,0,1,1,0,DKV
+SMK,RPL,82,96,80,81,85,0,0,1,1,Teknik Informatika
+SMK,IPS,95,75,100,74,85,0,0,0,0,Akuntansi
+SMA,IPA,81,65,89,87,97,0,0,0,0,Kedokteran
+SMA,IPA,77,66,81,75,63,0,1,1,0,Seni Musik
+SMA,IPA,72,79,90,69,64,0,0,1,0,DKV
+SMK,Akuntansi,77,88,75,87,72,0,0,1,0,Teknik Informatika
+SMA,IPA,80,85,89,76,88,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,85,81,81,73,95,0,0,0,0,Farmasi
+SMA,IPS,90,86,98,88,86,0,0,0,0,Hukum
+SMK,Akuntansi,77,90,72,82,74,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,93,64,91,70,88,0,0,0,0,Manajemen
+SMA,IPA,78,62,80,82,86,0,0,0,0,Farmasi
+SMA,IPA,83,72,84,65,97,0,0,0,0,Farmasi
+SMA,IPS,96,90,90,69,85,0,0,0,0,Manajemen
+SMK,RPL,80,88,86,67,73,1,0,0,0,Ilmu Keolahragaan
+SMK,Akuntansi,80,77,70,72,66,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,96,67,95,80,80,0,0,0,0,Akuntansi
+SMA,IPA,81,87,83,89,99,0,0,0,0,Keperawatan
+SMK,TKJ,76,88,81,86,92,0,0,0,0,Keperawatan
+SMK,Mesin,74,80,75,71,76,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,82,80,86,65,68,0,1,1,0,Seni Musik
+SMK,TKJ,74,99,72,80,88,0,0,0,0,Teknik Mesin
+SMK,Mesin,87,76,88,63,66,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,85,81,84,60,67,0,0,1,0,DKV
+SMK,TKJ,88,92,71,93,75,0,0,1,0,Sistem Informasi
+SMK,Akuntansi,71,74,75,86,87,0,0,1,0,DKV
+SMK,TKJ,76,94,87,82,72,0,0,1,0,Teknik Informatika
+SMA,IPA,83,86,88,93,79,0,0,0,1,Teknik Mesin
+SMA,IPA,90,66,78,85,86,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,86,79,80,60,75,0,1,0,0,Desain Interior
+SMK,IPS,95,66,95,90,85,0,0,0,0,Akuntansi
+SMK,Mesin,81,88,90,70,89,0,0,0,0,Farmasi
+SMK,Akuntansi,85,63,83,73,95,0,0,0,0,Kedokteran
+SMK,IPS,92,64,98,68,82,0,0,0,0,Hukum
+SMK,Akuntansi,80,62,78,73,90,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,87,81,85,64,88,0,1,1,0,DKV
+SMA,IPA,84,99,70,94,70,0,0,1,0,Teknik Mesin
+SMA,IPA,70,75,83,78,81,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,78,67,82,78,60,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,91,88,91,75,91,0,0,0,0,Akuntansi
+SMK,Mesin,88,95,84,95,60,0,0,1,1,Sistem Informasi
+SMA,IPS,93,80,91,71,86,0,0,0,0,Manajemen
+SMA,IPA,80,90,94,60,89,0,0,0,0,Keperawatan
+SMK,TKJ,80,67,86,63,72,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,75,75,73,85,60,0,1,1,0,DKV
+SMA,IPS,99,71,89,62,80,0,0,0,0,Akuntansi
+SMK,TKJ,82,78,75,68,60,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,76,88,81,67,70,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,90,80,83,80,99,0,0,0,0,Farmasi
+SMA,IPA,75,78,81,76,76,0,0,1,0,DKV
+SMK,RPL,79,61,89,61,85,0,0,0,0,Kedokteran
+SMK,RPL,72,96,81,93,62,0,0,0,0,Sistem Informasi
+SMA,IPA,73,95,80,84,68,0,0,1,1,Sistem Informasi
+SMK,TKJ,85,79,84,79,95,0,0,0,0,Kedokteran
+SMA,IPA,82,90,71,85,79,0,0,1,0,Sistem Informasi
+SMK,RPL,81,95,86,95,84,0,0,0,1,Teknik Mesin
+SMA,IPA,74,63,83,70,65,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,70,99,76,93,89,0,0,1,0,Teknik Mesin
+SMK,Mesin,76,77,78,85,69,0,0,0,0,Seni Musik
+SMA,IPA,70,99,82,90,82,0,0,1,1,Teknik Mesin
+SMK,Mesin,75,72,80,73,67,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,98,85,99,86,89,0,0,0,0,Akuntansi
+SMK,IPS,87,79,91,82,87,0,0,0,0,Manajemen
+SMA,IPA,88,63,71,85,75,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,87,73,96,84,85,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,78,88,84,84,87,0,0,0,0,Keperawatan
+SMA,IPA,78,89,90,70,70,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,83,61,87,76,94,0,0,0,0,Kedokteran
+SMA,IPS,99,60,86,90,88,0,0,0,0,Manajemen
+SMK,IPS,89,75,100,90,92,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,87,64,97,69,93,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,80,90,83,94,71,0,0,0,1,Teknik Mesin
+SMK,TKJ,88,90,72,63,61,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,98,72,86,78,93,0,0,0,0,Ilmu Komunikasi
+SMA,IPS,95,88,93,82,82,0,0,0,0,Akuntansi
+SMK,RPL,75,82,75,81,85,0,0,1,0,Seni Musik
+SMK,RPL,73,88,74,77,66,0,1,1,0,Seni Musik
+SMA,IPA,73,77,83,89,61,0,1,1,0,Seni Musik
+SMK,Mesin,79,70,75,86,76,0,0,0,0,Desain Interior
+SMK,Mesin,73,76,70,76,85,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,74,87,87,75,60,0,0,0,1,Teknik Informatika
+SMA,IPA,80,61,90,75,77,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,89,75,95,77,95,0,0,0,0,Manajemen
+SMA,IPS,100,69,94,86,87,0,0,0,0,Manajemen
+SMA,IPA,86,70,78,65,70,0,0,1,0,DKV
+SMK,Akuntansi,81,86,75,69,66,0,1,1,0,DKV
+SMA,IPS,99,88,94,71,86,0,0,0,0,Hukum
+SMA,IPA,70,85,88,91,76,0,0,0,0,Sistem Informasi
+SMK,Akuntansi,83,80,86,75,64,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,84,67,73,61,80,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,82,90,83,71,62,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,74,70,73,60,60,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,94,70,88,61,86,0,0,0,0,Hukum
+SMK,Akuntansi,77,98,72,82,75,0,0,0,0,Sistem Informasi
+SMA,IPA,78,85,92,84,94,0,0,0,0,Gizi
+SMA,IPA,88,83,84,73,76,0,1,1,0,Desain Interior
+SMK,RPL,86,73,89,68,86,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,74,90,82,85,97,0,0,0,0,Keperawatan
+SMK,Mesin,77,89,77,87,60,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,96,75,89,80,81,0,0,0,0,Akuntansi
+SMK,TKJ,88,98,82,90,75,0,0,1,1,Sistem Informasi
+SMA,IPA,78,98,77,90,83,0,0,0,0,Sistem Informasi
+SMA,IPS,88,70,94,71,88,0,0,0,0,Akuntansi
+SMA,IPA,70,74,87,63,89,1,0,0,0,Ilmu Keolahragaan
+SMK,Akuntansi,71,66,91,82,90,0,0,0,0,Kedokteran
+SMA,IPS,98,87,96,67,93,0,0,0,0,Manajemen
+SMK,RPL,81,77,85,81,64,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,92,89,85,75,90,0,0,0,0,Hukum
+SMK,RPL,83,75,89,89,78,0,1,1,0,DKV
+SMK,TKJ,85,69,71,74,86,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,86,90,86,75,84,0,0,1,1,Teknik Informatika
+SMA,IPS,97,73,96,77,85,0,0,0,0,Hukum
+SMK,Mesin,77,70,94,87,97,0,0,0,0,Kedokteran
+SMA,IPA,77,88,70,79,68,0,0,0,0,Teknik Mesin
+SMA,IPA,74,73,81,78,70,0,1,0,0,Seni Musik
+SMA,IPS,91,88,97,73,80,0,0,0,0,Hukum
+SMA,IPA,73,93,79,86,71,0,0,0,1,Sistem Informasi
+SMA,IPA,88,66,81,81,93,0,0,0,0,Gizi
+SMK,Akuntansi,82,86,90,88,66,0,1,1,0,Desain Interior
+SMA,IPA,79,79,95,68,95,0,0,0,0,Kedokteran
+SMK,Akuntansi,77,91,73,76,77,0,0,0,0,Teknik Informatika
+SMK,TKJ,86,65,81,62,85,0,0,0,0,Keperawatan
+SMK,Mesin,75,79,86,87,64,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,72,88,82,88,64,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,92,66,99,89,82,0,0,0,0,Hukum
+SMA,IPA,89,68,89,84,89,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,90,70,83,68,72,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,74,85,78,80,71,0,0,0,1,Sistem Informasi
+SMK,TKJ,79,77,72,90,75,0,0,1,0,DKV
+SMK,RPL,80,72,78,62,84,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,97,67,98,71,81,0,0,0,0,Manajemen
+SMK,Akuntansi,85,77,87,69,60,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,76,86,72,70,76,0,1,1,0,Seni Musik
+SMA,IPA,82,86,75,82,66,0,1,1,0,Seni Musik
+SMA,IPA,73,65,71,76,73,0,0,1,0,Desain Interior
+SMK,Mesin,89,92,89,81,68,0,0,0,0,Sistem Informasi
+SMA,IPA,87,100,75,85,86,0,0,1,1,Teknik Mesin
+SMK,TKJ,87,63,86,75,83,0,1,0,0,Desain Interior
+SMA,IPA,90,88,79,94,79,0,0,0,0,Teknik Informatika
+SMK,Akuntansi,84,71,83,78,79,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,83,76,89,71,98,0,0,0,0,Gizi
+SMA,IPA,90,85,85,79,90,0,0,0,0,DKV
+SMA,IPA,86,88,80,79,63,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,78,98,90,93,65,0,0,1,1,Teknik Informatika
+SMK,Mesin,88,81,84,79,91,0,0,0,0,Gizi
+SMK,Akuntansi,75,68,87,75,60,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,82,82,77,78,87,0,0,1,0,Desain Interior
+SMK,RPL,86,75,88,73,90,0,0,0,0,Farmasi
+SMA,IPA,87,79,89,85,69,0,1,1,0,Desain Interior
+SMA,IPA,84,91,72,76,71,0,0,0,1,Sistem Informasi
+SMA,IPS,89,90,91,89,93,0,0,0,0,Manajemen
+SMK,TKJ,84,77,73,76,61,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,79,97,82,85,85,0,0,1,0,Teknik Mesin
+SMA,IPA,84,80,80,77,84,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,89,72,73,70,61,0,1,0,0,Seni Musik
+SMK,Akuntansi,88,89,77,82,85,0,1,1,0,Desain Interior
+SMK,RPL,89,72,88,79,92,0,0,0,0,Farmasi
+SMA,IPA,76,74,85,72,87,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,77,75,85,73,61,0,1,1,0,Desain Interior
+SMK,Mesin,90,85,82,91,79,0,0,1,1,Sistem Informasi
+SMA,IPA,87,94,80,82,87,0,0,0,1,Teknik Mesin
+SMA,IPA,84,63,71,88,87,0,1,0,0,Seni Musik
+SMK,Mesin,74,87,93,73,93,0,0,0,0,Gizi
+SMA,IPA,76,63,75,82,87,0,1,1,0,Desain Interior
+SMK,Akuntansi,85,82,80,60,87,0,1,0,0,DKV
+SMA,IPA,84,86,79,64,80,0,1,1,0,Seni Musik
+SMK,Mesin,81,79,90,72,86,0,0,0,0,Keperawatan
+SMK,Akuntansi,90,73,83,88,99,0,0,0,0,Kedokteran
+SMA,IPS,99,65,90,77,84,0,0,0,0,Ilmu Komunikasi
+SMK,Akuntansi,76,87,75,76,86,0,0,1,0,Sistem Informasi
+SMA,IPA,73,98,87,92,61,0,0,0,0,Sistem Informasi
+SMA,IPA,87,86,86,65,84,0,0,0,0,Seni Musik
+SMA,IPS,86,63,99,65,90,0,0,0,0,Akuntansi
+SMA,IPA,78,71,88,81,89,0,1,0,0,Desain Interior
+SMK,Akuntansi,87,67,87,73,85,0,0,0,0,Keperawatan
+SMK,Akuntansi,79,60,88,72,79,0,1,0,0,Desain Interior
+SMA,IPA,87,98,84,92,85,0,0,0,1,Sistem Informasi
+SMA,IPA,90,60,89,76,80,0,1,0,0,DKV
+SMA,IPS,85,87,99,76,81,0,0,0,0,Manajemen
+SMK,IPS,94,81,92,88,91,0,0,0,0,Hukum
+SMA,IPA,83,66,79,77,87,0,1,1,0,Seni Musik
+SMK,IPS,90,61,98,67,88,0,0,0,0,Ilmu Komunikasi
+SMK,RPL,88,60,81,73,96,0,0,0,0,Gizi
+SMK,Mesin,82,91,85,93,90,0,0,0,0,Sistem Informasi
+SMA,IPA,72,77,75,72,90,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,74,86,80,64,88,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,82,89,75,86,83,0,0,1,0,Teknik Mesin
+SMK,Mesin,71,84,87,67,96,0,0,0,0,Farmasi
+SMA,IPA,86,82,72,86,75,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,88,77,70,81,84,0,0,1,0,Desain Interior
+SMK,RPL,90,69,88,74,83,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,77,83,88,89,91,0,0,0,0,Keperawatan
+SMK,Akuntansi,74,61,72,82,66,0,0,1,0,DKV
+SMA,IPA,77,96,78,93,65,0,0,0,0,Teknik Mesin
+SMA,IPA,85,87,85,86,79,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,74,70,88,75,90,0,0,0,0,Gizi
+SMK,TKJ,75,86,75,85,76,0,0,1,0,Teknik Informatika
+SMK,Mesin,77,96,72,84,62,0,0,1,0,Sistem Informasi
+SMA,IPS,98,78,100,81,90,0,0,0,0,Manajemen
+SMA,IPA,79,81,84,77,95,0,0,0,0,Gizi
+SMA,IPA,84,72,90,82,90,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,90,83,76,85,85,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,80,62,87,89,97,0,0,0,0,Kedokteran
+SMK,TKJ,86,60,71,71,67,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,84,77,80,61,86,0,1,1,0,DKV
+SMA,IPA,79,93,76,81,71,0,0,1,1,Teknik Informatika
+SMK,IPS,97,86,86,70,90,0,0,0,0,Akuntansi
+SMK,IPS,93,60,87,88,82,0,0,0,0,Ilmu Komunikasi
+SMK,Akuntansi,70,86,93,65,99,0,0,0,0,Farmasi
+SMA,IPA,82,69,90,71,86,0,0,0,0,Kedokteran
+SMA,IPA,80,89,76,78,81,0,0,0,1,Teknik Mesin
+SMK,Akuntansi,84,92,77,93,73,0,0,1,1,Sistem Informasi
+SMK,RPL,78,72,84,61,75,0,1,1,0,Seni Musik
+SMA,IPA,82,91,78,86,81,0,0,0,0,Sistem Informasi
+SMK,Akuntansi,70,78,85,79,92,0,0,0,0,Kedokteran
+SMA,IPS,99,69,97,75,81,0,0,0,0,Manajemen
+SMA,IPA,81,64,82,62,81,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,71,77,80,60,85,0,0,0,0,Kedokteran
+SMA,IPA,82,70,74,83,69,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,88,94,89,92,87,0,0,0,1,Teknik Mesin
+SMA,IPA,76,69,86,61,67,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,85,89,93,68,99,0,0,0,0,Kedokteran
+SMA,IPA,73,66,79,62,87,0,0,0,0,Desain Interior
+SMA,IPA,70,74,87,61,79,0,1,1,0,Desain Interior
+SMK,TKJ,84,99,76,77,70,0,0,0,1,Teknik Informatika
+SMK,Akuntansi,77,95,72,76,87,0,0,0,0,Teknik Informatika
+SMA,IPA,80,90,84,84,87,0,0,0,0,Keperawatan
+SMK,RPL,77,65,81,67,89,0,0,0,0,Kedokteran
+SMK,IPS,85,71,87,84,91,0,0,0,0,Hukum
+SMA,IPS,88,76,87,67,85,0,0,0,0,Akuntansi
+SMA,IPS,85,60,94,73,81,0,0,0,0,Akuntansi
+SMK,RPL,77,94,73,80,68,0,0,0,1,Teknik Mesin
+SMK,RPL,77,81,72,84,70,0,1,1,0,Seni Musik
+SMA,IPS,91,88,96,74,86,0,0,0,0,Manajemen
+SMA,IPS,95,70,98,85,82,0,0,0,0,Hukum
+SMK,Mesin,74,81,80,70,85,0,0,0,0,DKV
+SMA,IPA,82,60,72,71,68,0,1,0,0,Seni Musik
+SMA,IPA,73,78,74,69,61,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,90,87,83,88,85,0,0,0,0,Keperawatan
+SMK,IPS,90,67,95,85,95,0,0,0,0,Akuntansi
+SMA,IPA,82,76,82,86,81,0,1,0,0,DKV
+SMK,TKJ,78,74,85,87,90,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,74,70,94,70,89,0,0,0,0,Farmasi
+SMA,IPA,72,100,87,78,82,0,0,1,1,Teknik Mesin
+SMA,IPA,81,79,72,78,68,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,80,69,89,67,96,0,0,0,0,Gizi
+SMA,IPA,81,65,95,63,91,0,0,0,0,Kedokteran
+SMA,IPA,71,87,71,81,70,0,1,0,0,DKV
+SMA,IPS,99,81,92,60,83,0,0,0,0,Hukum
+SMA,IPA,80,73,77,70,71,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,94,90,98,90,91,0,0,0,0,Manajemen
+SMA,IPA,80,77,72,69,67,0,1,0,0,Desain Interior
+SMA,IPA,90,85,89,75,90,0,0,1,1,Teknik Mesin
+SMK,IPS,96,85,88,70,95,0,0,0,0,Manajemen
+SMA,IPA,89,72,86,82,66,0,1,0,0,Desain Interior
+SMA,IPS,94,75,89,67,84,0,0,0,0,Ilmu Komunikasi
+SMK,Akuntansi,75,76,84,75,99,0,0,0,0,Farmasi
+SMA,IPA,84,80,80,88,64,0,1,0,0,DKV
+SMK,Mesin,73,86,90,81,83,0,1,1,0,Desain Interior
+SMA,IPA,85,88,81,91,85,0,0,1,1,Teknik Mesin
+SMK,IPS,90,82,85,63,80,0,0,0,0,Akuntansi
+SMK,Mesin,74,86,84,77,72,0,1,1,0,Seni Musik
+SMA,IPA,84,60,71,86,69,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,84,98,83,89,82,0,0,0,1,Sistem Informasi
+SMA,IPA,79,83,75,80,81,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,91,85,89,80,93,0,0,0,0,Ilmu Komunikasi
+SMK,Akuntansi,81,64,72,75,65,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,76,82,80,80,93,0,0,0,0,Kedokteran
+SMK,TKJ,75,89,86,64,94,0,0,0,0,Farmasi
+SMK,IPS,99,78,98,74,89,0,0,0,0,Akuntansi
+SMK,Mesin,80,95,77,81,63,0,0,1,1,Sistem Informasi
+SMK,RPL,83,84,85,79,89,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,80,85,86,88,81,0,0,0,0,Sistem Informasi
+SMA,IPA,75,64,86,71,78,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,76,70,73,65,60,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,78,98,88,84,86,0,0,0,0,Teknik Informatika
+SMA,IPA,88,71,94,89,97,0,0,0,0,Farmasi
+SMK,Akuntansi,86,99,79,90,75,0,0,0,0,Teknik Mesin
+SMK,TKJ,71,63,72,60,72,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,72,96,86,87,87,0,0,1,0,Sistem Informasi
+SMK,TKJ,70,60,87,74,83,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,88,96,88,80,67,0,0,0,0,Teknik Informatika
+SMK,TKJ,85,87,89,87,66,0,1,1,0,Seni Musik
+SMK,Akuntansi,86,92,80,91,65,0,0,0,1,Teknik Mesin
+SMA,IPA,78,72,84,68,66,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,86,85,77,89,74,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,90,71,80,66,69,0,1,1,0,Seni Musik
+SMA,IPA,75,88,75,77,75,0,0,0,1,Teknik Mesin
+SMA,IPS,90,74,91,90,84,0,0,0,0,Ilmu Komunikasi
+SMA,IPS,95,87,96,79,92,0,0,0,0,Hukum
+SMK,Mesin,82,78,78,67,90,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,78,68,91,69,86,0,0,0,0,Farmasi
+SMK,TKJ,79,89,79,80,62,0,0,1,0,Seni Musik
+SMK,Akuntansi,84,86,73,83,66,0,0,1,0,Sistem Informasi
+SMK,IPS,85,72,85,69,88,0,0,0,0,Manajemen
+SMA,IPA,83,63,94,83,95,0,0,0,0,Gizi
+SMA,IPA,76,89,77,93,80,0,0,0,1,Teknik Informatika
+SMA,IPA,79,83,81,73,91,0,0,0,0,Gizi
+SMA,IPS,85,62,86,87,94,0,0,0,0,Akuntansi
+SMK,TKJ,82,64,71,73,79,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,88,67,88,79,92,0,0,0,0,Hukum
+SMK,Akuntansi,85,75,83,60,96,0,0,0,0,Farmasi
+SMK,TKJ,80,84,74,82,69,0,0,1,0,Desain Interior
+SMA,IPA,72,79,83,71,74,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,94,63,88,60,86,0,0,0,0,Manajemen
+SMA,IPA,72,74,85,85,94,0,0,0,0,Gizi
+SMK,Mesin,85,90,87,70,79,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,70,85,79,72,73,0,1,1,0,Desain Interior
+SMA,IPA,78,77,88,72,99,0,0,0,0,Keperawatan
+SMK,RPL,90,92,86,85,68,0,0,1,1,Teknik Informatika
+SMA,IPA,79,92,81,80,77,0,0,1,1,Sistem Informasi
+SMK,Akuntansi,77,69,78,82,82,1,0,0,0,Pendidikan Jasmani
+SMA,IPS,86,71,97,60,89,0,0,0,0,Manajemen
+SMK,TKJ,71,78,92,64,88,0,0,0,0,Keperawatan
+SMK,TKJ,74,89,89,83,88,0,0,0,0,Gizi
+SMK,Mesin,73,91,84,82,65,0,0,1,1,Teknik Informatika
+SMA,IPA,77,76,83,66,63,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,83,96,78,78,66,0,0,1,1,Teknik Mesin
+SMA,IPA,87,63,89,79,86,0,0,0,0,Kedokteran
+SMA,IPA,74,100,78,94,87,0,0,1,1,Teknik Mesin
+SMA,IPA,83,69,70,81,76,0,0,1,0,DKV
+SMK,Akuntansi,76,89,73,86,72,0,0,0,0,Teknik Informatika
+SMA,IPA,84,90,86,92,83,0,0,1,1,Teknik Informatika
+SMK,Mesin,80,93,89,90,80,0,0,0,1,Sistem Informasi
+SMK,IPS,96,63,91,85,82,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,75,85,92,70,92,0,0,0,0,Keperawatan
+SMK,RPL,75,67,75,69,69,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,78,64,76,64,84,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,86,70,76,89,72,1,0,0,0,Ilmu Keolahragaan
+SMA,IPS,100,85,99,78,81,0,0,0,0,Hukum
+SMA,IPA,86,60,90,68,60,0,1,0,0,Desain Interior
+SMA,IPA,90,87,85,75,73,0,0,1,0,Desain Interior
+SMK,RPL,73,71,92,70,85,0,0,0,0,Kedokteran
+SMK,RPL,74,75,88,71,97,0,0,0,0,Kedokteran
+SMA,IPA,71,77,87,68,74,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,73,75,81,60,87,0,0,1,0,Desain Interior
+SMK,RPL,76,79,87,61,79,0,1,0,0,Seni Musik
+SMA,IPA,74,95,89,95,76,0,0,1,0,Sistem Informasi
+SMK,IPS,90,81,93,87,81,0,0,0,0,Hukum
+SMA,IPA,77,75,82,83,89,0,0,0,0,Farmasi
+SMA,IPA,76,89,79,77,76,0,0,1,0,Teknik Mesin
+SMK,Akuntansi,73,87,78,95,61,0,0,0,1,Teknik Informatika
+SMA,IPA,86,65,87,82,88,0,0,0,0,Gizi
+SMK,TKJ,73,62,85,63,100,0,0,0,0,Keperawatan
+SMK,TKJ,89,84,72,79,78,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,72,73,83,87,88,0,0,0,0,Farmasi
+SMA,IPA,88,80,86,60,83,0,1,0,0,Desain Interior
+SMK,TKJ,71,60,84,88,90,0,0,0,0,Gizi
+SMK,TKJ,89,78,87,87,99,0,0,0,0,Farmasi
+SMK,Mesin,85,82,77,86,60,0,0,1,0,DKV
+SMK,IPS,94,87,91,87,87,0,0,0,0,Hukum
+SMK,Akuntansi,70,86,72,64,65,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,82,87,81,85,63,0,1,1,0,Seni Musik
+SMA,IPA,72,89,76,95,85,0,0,1,1,Sistem Informasi
+SMA,IPA,72,88,82,63,70,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,81,82,83,64,95,0,0,0,0,Kedokteran
+SMA,IPA,83,66,77,60,87,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,77,61,78,61,82,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,95,90,89,76,89,0,0,0,0,Ilmu Komunikasi
+SMK,IPS,86,85,90,74,92,0,0,0,0,Akuntansi
+SMK,IPS,88,73,91,75,81,0,0,0,0,Manajemen
+SMK,Mesin,86,72,77,81,84,0,1,1,0,DKV
+SMK,Mesin,86,83,88,60,76,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,73,100,83,88,71,0,0,1,0,Teknik Informatika
+SMK,IPS,95,85,89,90,85,0,0,0,0,Manajemen
+SMK,Mesin,90,99,85,88,64,0,0,1,0,Teknik Mesin
+SMK,IPS,92,88,87,69,92,0,0,0,0,Hukum
+SMK,Mesin,87,88,80,71,70,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,83,69,83,87,84,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,92,74,96,67,85,0,0,0,0,Ilmu Komunikasi
+SMK,TKJ,76,80,85,74,92,0,0,0,0,Keperawatan
+SMK,RPL,79,61,76,60,68,0,0,1,0,Desain Interior
+SMK,Akuntansi,87,82,84,62,83,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,78,88,77,92,61,0,0,1,0,Teknik Informatika
+SMK,TKJ,84,66,80,75,73,0,1,0,0,DKV
+SMA,IPA,73,84,89,74,73,0,1,1,0,DKV
+SMA,IPS,94,83,94,89,92,0,0,0,0,Ilmu Komunikasi
+SMA,IPS,98,65,87,70,92,0,0,0,0,Manajemen
+SMK,Mesin,86,62,89,78,71,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,90,72,94,67,89,0,0,0,0,Kedokteran
+SMA,IPA,88,90,76,68,62,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,90,87,75,81,63,0,0,0,1,Teknik Mesin
+SMK,Mesin,87,79,83,61,91,0,0,0,0,Gizi
+SMA,IPA,73,61,88,79,65,1,0,0,0,Pendidikan Jasmani
+SMA,IPA,73,64,77,66,73,0,1,0,0,Desain Interior
+SMK,Mesin,87,79,88,87,68,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,75,85,77,73,64,0,1,0,0,DKV
+SMA,IPA,81,92,78,82,70,0,0,0,1,Teknik Mesin
+SMK,RPL,75,88,83,88,76,0,0,0,0,Teknik Mesin
+SMK,Akuntansi,73,63,84,76,90,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,70,90,81,63,97,0,0,0,0,Farmasi
+SMK,TKJ,76,72,72,80,78,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,90,87,82,90,99,0,0,0,0,Keperawatan
+SMA,IPA,83,89,85,79,87,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,94,73,98,84,84,0,0,0,0,Hukum
+SMA,IPA,70,82,76,89,60,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,86,60,93,86,81,0,0,0,0,Akuntansi
+SMA,IPS,89,79,86,81,95,0,0,0,0,Hukum
+SMA,IPA,76,63,79,86,76,0,0,1,0,Desain Interior
+SMK,TKJ,77,63,74,85,72,0,1,0,0,DKV
+SMK,TKJ,79,71,91,83,99,0,0,0,0,Keperawatan
+SMA,IPA,81,77,95,75,99,0,0,0,0,Keperawatan
+SMA,IPA,84,90,89,70,61,1,0,0,0,Pendidikan Jasmani
+SMK,IPS,92,79,100,78,91,0,0,0,0,Manajemen
+SMA,IPA,70,91,85,89,86,0,0,0,0,Teknik Informatika
+SMA,IPA,86,71,71,63,86,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,89,66,81,89,85,0,0,0,0,Gizi
+SMA,IPS,97,60,96,67,81,0,0,0,0,Hukum
+SMA,IPA,84,75,85,84,60,1,0,0,0,Ilmu Keolahragaan
+SMK,IPS,97,76,91,83,87,0,0,0,0,Akuntansi
+SMA,IPA,81,87,82,85,69,0,1,1,0,Desain Interior
+SMK,Akuntansi,73,78,95,75,95,0,0,0,0,Farmasi
+SMA,IPS,87,67,98,75,83,0,0,0,0,Hukum
+SMA,IPA,79,97,80,93,89,0,0,1,1,Sistem Informasi
+SMK,TKJ,77,84,84,71,97,0,0,0,0,Kedokteran
+SMA,IPA,76,65,84,64,62,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,70,78,90,78,97,0,0,0,0,Kedokteran
+SMA,IPA,86,82,90,83,72,0,0,1,0,Desain Interior
+SMA,IPA,82,89,72,82,78,0,0,1,0,DKV
+SMK,Mesin,74,65,82,87,81,0,0,1,0,Desain Interior
+SMA,IPA,83,81,82,61,79,1,0,0,0,Ilmu Keolahragaan
+SMK,RPL,77,66,89,79,90,0,1,1,0,DKV
+SMA,IPA,73,70,84,89,98,0,0,0,0,Kedokteran
+SMA,IPA,87,88,73,78,86,0,1,1,0,Seni Musik
+SMK,Akuntansi,89,82,79,89,68,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,78,80,95,87,85,0,0,0,0,Gizi
+SMK,IPS,86,77,92,82,89,0,0,0,0,Hukum
+SMA,IPA,78,84,70,64,63,0,1,0,0,Desain Interior
+SMK,Akuntansi,70,67,84,71,98,0,0,0,0,Farmasi
+SMK,Akuntansi,84,81,83,68,88,0,0,0,0,Keperawatan
+SMK,TKJ,72,60,73,90,80,1,0,0,0,Pendidikan Jasmani
+SMK,Akuntansi,77,74,87,77,66,0,1,0,0,DKV
+SMK,IPS,97,79,99,62,90,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,84,86,74,63,63,0,1,1,0,Seni Musik
+SMK,IPS,91,83,88,65,81,0,0,0,0,Hukum
+SMK,IPS,98,87,95,70,82,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,76,80,83,76,90,0,0,0,0,Kedokteran
+SMA,IPA,86,77,82,76,86,0,0,0,0,Farmasi
+SMA,IPA,86,86,73,83,74,0,0,0,1,Sistem Informasi
+SMK,TKJ,72,84,88,83,64,0,1,1,0,DKV
+SMA,IPS,87,90,98,85,85,0,0,0,0,Hukum
+SMA,IPA,90,92,88,95,72,0,0,0,0,Teknik Informatika
+SMA,IPA,78,76,75,69,78,0,1,1,0,DKV
+SMA,IPA,85,81,91,88,87,0,0,0,0,Farmasi
+SMA,IPA,76,96,83,80,64,0,0,1,0,Teknik Mesin
+SMK,RPL,77,84,95,71,87,0,0,0,0,Farmasi
+SMK,TKJ,89,61,92,67,96,0,0,0,0,Gizi
+SMA,IPA,77,64,88,67,79,0,1,0,0,Desain Interior
+SMK,Mesin,83,89,70,81,85,0,1,1,0,DKV
+SMK,Mesin,71,79,78,69,62,0,0,1,0,DKV
+SMA,IPA,78,87,90,85,79,0,0,1,0,Teknik Mesin
+SMA,IPA,86,72,83,82,75,0,1,1,0,Desain Interior
+SMA,IPA,87,90,91,63,94,0,0,0,0,Keperawatan
+SMA,IPA,89,74,82,62,89,0,0,1,0,DKV
+SMK,Mesin,74,73,88,89,62,1,0,0,0,Ilmu Keolahragaan
+SMK,TKJ,87,63,87,70,85,0,0,0,0,Gizi
+SMK,IPS,85,78,93,83,80,0,0,0,0,Ilmu Komunikasi
+SMA,IPA,80,86,84,90,70,1,0,0,0,Ilmu Keolahragaan
+SMK,Mesin,77,76,88,87,81,0,0,1,0,Desain Interior
+SMK,Akuntansi,76,67,77,63,62,0,1,1,0,Seni Musik
+SMK,Mesin,88,74,90,66,88,0,0,0,0,Gizi
+SMA,IPA,88,82,90,89,63,1,0,0,0,Pendidikan Jasmani
+SMK,Mesin,89,80,82,89,60,0,1,1,0,DKV
+SMK,RPL,81,84,77,89,61,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,77,88,86,75,66,1,0,0,0,Ilmu Keolahragaan
+SMK,Akuntansi,79,62,82,61,79,1,0,0,0,Pendidikan Jasmani
+SMK,TKJ,70,86,89,70,75,1,0,0,0,Pendidikan Jasmani
+SMK,RPL,71,76,93,71,85,0,0,0,0,Gizi
+SMK,IPS,97,87,95,61,90,0,0,0,0,Hukum
+SMA,IPA,78,89,76,72,60,0,1,1,0,DKV
+SMA,IPA,89,73,78,78,65,1,0,0,0,Ilmu Keolahragaan
+SMA,IPA,90,94,88,83,77,0,0,1,0,Teknik Mesin
+SMA,IPA,73,94,88,77,67,0,0,0,1,Sistem Informasi
+SMK,TKJ,87,62,70,72,80,0,1,1,0,Seni Musik
