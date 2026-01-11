@@ -123,7 +123,7 @@ def get_prediction(d):
 
 # --- MAIN APP ---
 if "messages" not in st.session_state:
-    st.session_state.messages = [{"role": "assistant", "content": "Halo! Saya Bot Rekomendasi Jurusan. Siapa namamu?"}]
+    st.session_state.messages = [{"role": "assistant", "content": "Halo! Perkenalkan Saya Bot Rekomendasi Jurusan. Siapa Namamu?"}]
 if "user_data" not in st.session_state:
     st.session_state.user_data = {}
 if "step" not in st.session_state:
@@ -161,17 +161,17 @@ if prompt := st.chat_input("Ketik jawabanmu..."):
                 full_response = "Jurusan SMK-nya apa?"
                 st.session_state.step = 2
             else:
-                full_response = "Pilih **SMA** atau **SMK**."
+                full_response = "Pilihan hanya **SMA** atau **SMK**."
 
         elif st.session_state.step == 2:
             st.session_state.user_data['jurusan'] = prompt.strip().lower()
-            full_response = "Masukkan nilai **PKN**?"
+            full_response = "Masukkan nilai **PKN** Kamu?"
             st.session_state.step = 3.1
 
         elif st.session_state.step == 3.1:
             try:
                 st.session_state.user_data['pkn'] = float(prompt)
-                full_response = "Nilai **Matematika**?"
+                full_response = "Sekarang Nilai **Matematika**?"
                 st.session_state.step = 3.2
             except: full_response = "⚠️ Masukkan angka yang valid."
         
